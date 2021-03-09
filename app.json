@@ -39,11 +39,8 @@
       {
         "plan": "heroku-postgresql",
         "options": {
-          "version": "11"
+          "version": "12"
         }
-      },
-      {
-        "plan": "papertrail:choklad"
       }
     ]
   }
